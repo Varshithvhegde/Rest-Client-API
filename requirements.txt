@@ -1,5 +1,4 @@
-pyinstaller==6.3.0
-pyinstaller-hooks-contrib==2024.0
+pyinstaller==5.13.2
 paramiko==3.4.0
 sv-ttk==2.5.5
 tk==0.1.0
